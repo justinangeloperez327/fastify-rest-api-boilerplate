@@ -13,7 +13,7 @@ This project is a REST API built using [Fastify](https://www.fastify.io/), a fas
 
 ```bash
 git clone https://github.com/justinangeloperez327@gmail.com/fastify-rest-api-boilerplate.git
-cd fastify-rest-api
+cd fastify-rest-api-boilerplate
 npm install
 ```
 
